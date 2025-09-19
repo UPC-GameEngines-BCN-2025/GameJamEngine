@@ -1,12 +1,13 @@
-﻿// CMakeProject1.cpp: define el punto de entrada de la aplicación.
-//
+﻿#include <iostream>
 
-#include "CMakeProject1.h"
-
-using namespace std;
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	glm::mat4 rotationMatrix(1.0f);
+	
+	std::cout << "Hello CMake and vcpkg." << std::endl;
 	return 0;
 }
