@@ -12,6 +12,6 @@ project (GameEngineTemplate)
 find_package(glm CONFIG REQUIRED)
 
 # Add source to this project's executable.
-add_executable (GameEngineTemplate GameEngineTemplate.cpp)
+add_executable (GameJamEngine GameJamEngine.cpp)
 
-target_link_libraries(GameEngineTemplate PRIVATE glm::glm)
+target_link_libraries(GameJamEngine PRIVATE glm::glm)
