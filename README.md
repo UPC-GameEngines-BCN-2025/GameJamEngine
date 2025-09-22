@@ -1,8 +1,8 @@
 # GameJamEngine
 Engine Developer:
 
-Zhehao Li
+[Zhehao Li](https://github.com/jeremy-zhehaoli)
 
-Victor
+[Víctor Cárdenas](https://github.com/Vixtorbir)
 
-Marc
+[Marc Amo](https://github.com/mxarc)
